@@ -3,7 +3,9 @@
 ## Name of Data: Brownfield Sites assisted by the state of Colorado 
 
 ## Description: 
-Hosted feature layer of brownfield sites in the state of Colorado. I'm not sure what exactly this will demonstrate (since I'm still figuring out exactly what question to ask), but it's useful to see where these sites are (potentially overlapping with demographic info?). Specifically for Silverton, it shows that two brownfields exist within the town. 
+Hosted feature layer of brownfield sites in the state of Colorado. 
+
+I'm not sure what exactly this will demonstrate (since I'm still figuring out exactly what question to ask), but it's useful to see where these sites are (potentially overlapping with demographic info?). Specifically for Silverton, it shows that two brownfields exist within the town. 
 
 * ### [Link to source](https://services3.arcgis.com/66aUo8zsujfVXRIT/ArcGIS/rest/services/CDPHE_Brownfield/FeatureServer/0?f=pjson)
 
@@ -19,6 +21,7 @@ Hosted feature layer of brownfield sites in the state of Colorado. I'm not sure 
 
 ## Description: 
 "This data set consists of digital data describing BLM Colorado’s Administrative Unit Boundaries in the State of Colorado. This data set was derived from BLM Colorado Field Office data captured at a scale of 1:24,000 and mapjoined into a resulting statewide map layer. Differences in data capture techniques resulted in the data editor dropping some boundaries from various Field Office Areas to avoid sliver problems. The data was snapped to the 2016 Geographic Coordinate Data Base (GCDB) for boundary consistency."
+
 Again, not super sure what this will be used to demonstrate but since San Juan County is such a high percentage of public lands it'll be useful to see where those boundaries are. 
 
 * ### [Link to source](https://www.blm.gov/site-page/services-geospatial-gis-data-colorado)
