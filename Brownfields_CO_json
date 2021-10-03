@@ -1,0 +1,121 @@
+{
+  "currentVersion" : 10.81, 
+  "serviceItemId" : "db2fd49fae64482689cf82cf0b179511", 
+  "serviceDescription" : "", 
+  "hasVersionedData" : false, 
+  "supportsDisconnectedEditing" : false, 
+  "hasStaticData" : true, 
+  "hasSharedDomains" : false, 
+  "maxRecordCount" : 2000, 
+  "supportedQueryFormats" : "JSON", 
+  "supportsVCSProjection" : false, 
+  "supportedExportFormats" : "csv,shapefile,sqlite,gpkg,filegdb,featureCollection,geojson,excel", 
+  "capabilities" : "Query,Extract,Sync,ChangeTracking", 
+  "description" : "", 
+  "copyrightText" : "", 
+  "spatialReference" : {
+    "wkid" : 102100, 
+    "latestWkid" : 3857
+  }, 
+  "initialExtent" : {
+    "xmin" : -12112396.726970555, 
+    "ymin" : 4462632.1579716876, 
+    "xmax" : -11421892.858306404, 
+    "ymax" : 4957113.2621373655, 
+    "spatialReference" : {
+      "wkid" : 102100, 
+      "latestWkid" : 3857
+    }
+  }, 
+  "fullExtent" : {
+    "xmin" : -12112396.726970555, 
+    "ymin" : 4462632.1579716876, 
+    "xmax" : -11421892.858306404, 
+    "ymax" : 4957113.2621373655, 
+    "spatialReference" : {
+      "wkid" : 102100, 
+      "latestWkid" : 3857
+    }
+  }, 
+  "allowGeometryUpdates" : true, 
+  "units" : "esriMeters", 
+  "supportsAppend" : true, 
+  "supportsSharedDomains" : true, 
+  "supportsWebHooks" : true, 
+  "supportsTemporalLayers" : true, 
+  "layerOverridesEnabled" : true, 
+  "size" : 245760, 
+  "syncEnabled" : true, 
+  "syncCapabilities" : {
+    "supportsAsync" : true, 
+    "supportsRegisteringExistingData" : true, 
+    "supportsSyncDirectionControl" : true, 
+    "supportsPerLayerSync" : true, 
+    "supportsPerReplicaSync" : true, 
+    "supportsSyncModelNone" : true, 
+    "supportsRollbackOnFailure" : true, 
+    "supportsAttachmentsSyncDirection" : true, 
+    "supportsBiDirectionalSyncForServer" : true
+  }, 
+  "extractChangesCapabilities" : {
+    "supportsReturnIdsOnly" : true, 
+    "supportsReturnExtentOnly" : true, 
+    "supportsReturnAttachments" : true, 
+    "supportsLayerQueries" : true, 
+    "supportsGeometry" : true, 
+    "supportsFeatureReturn" : true, 
+    "supportsReturnHasGeometryUpdates" : false
+  }, 
+  "supportsApplyEditsWithGlobalIds" : true, 
+  "supportsReturnDeleteResults" : true, 
+  "supportsLayerOverrides" : true, 
+  "supportsTilesAndBasicQueriesMode" : true, 
+  "supportsQueryContingentValues" : true, 
+  "supportedContingentValuesFormats" : "JSON, PBF", 
+  "supportsContingentValuesJson" : 2, 
+  "advancedEditingCapabilities" : {
+    "supportsSplit" : false, 
+    "supportsReturnServiceEditsInSourceSR" : false, 
+    "supportsAsyncApplyEdits" : true, 
+    "supportsReturnEditResults" : true
+  }, 
+  "editorTrackingInfo" : {
+    "enableEditorTracking" : false, 
+    "enableOwnershipAccessControl" : false, 
+    "allowOthersToQuery" : true, 
+    "allowOthersToUpdate" : true, 
+    "allowOthersToDelete" : true, 
+    "allowAnonymousToQuery" : true, 
+    "allowAnonymousToUpdate" : true, 
+    "allowAnonymousToDelete" : true
+  }, 
+  "changeTrackingInfo" : 
+  {
+    "lastSyncDate" : 1633013620215, 
+    "layerServerGens" : [
+      {
+        "id" : 0, 
+        "minServerGen" : 394242, 
+        "serverGen" : 394242
+      }
+    ]
+  }, 
+  "xssPreventionInfo" : {
+    "xssPreventionEnabled" : true, 
+    "xssPreventionRule" : "InputOnly", 
+    "xssInputRule" : "rejectInvalid"
+  }, 
+  "layers" : [
+    {
+      "id" : 0, 
+      "name" : "CDPHE_Brownfield", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 18489298, 
+      "maxScale" : 0, 
+      "geometryType" : "esriGeometryPoint"
+    }
+  ], 
+  "tables" : []
+}
