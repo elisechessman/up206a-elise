@@ -12,5 +12,14 @@
 * Also helpful is [the link](https://cdphe.colorado.gov/hm-gis-data) to other Environmental maps and GIS data that might be of use through the state Department of Public Health and the Environment
 
 
-# Census Information
+# Public Lands
 
+## Name of Data: BLM Colorado Administrative Unit Boundaries (ADMU)
+
+## Description: This data set consists of digital data describing BLM Colorado’s Administrative Unit Boundaries in the State of Colorado. This data set was derived from BLM Colorado Field Office data captured at a scale of 1:24,000 and mapjoined into a resulting statewide map layer. Differences in data capture techniques resulted in the data editor dropping some boundaries from various Field Office Areas to avoid sliver problems. The data was snapped to the 2016 Geographic Coordinate Data Base (GCDB) for boundary consistency.
+
+* ### [Link to source](https://www.blm.gov/site-page/services-geospatial-gis-data-colorado)
+
+* ### In repo: 
+  * [Json]()
+  * [Shp]()
