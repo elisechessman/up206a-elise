@@ -1,0 +1,78 @@
+{
+ "currentVersion": 10.81,
+ "serviceDescription": "This data set consists of digital data describing BLM Colorado\u2019s Administrative Unit Boundaries in the State of Colorado. This data set was derived from BLM Colorado Field Office data captured at a scale of 1:24,000 and mapjoined into a resulting statewide map layer. Differences in data capture techniques resulted in the data editor dropping some boundaries from various Field Office Areas to avoid sliver problems. The data was snapped to the 2016 Geographic Coordinate Data Base (GCDB) for boundary consistency.",
+ "mapName": "BLM Colorado Administrative Units",
+ "description": "This data set consists of digital data describing BLM Colorado\u2019s Administrative Unit Boundaries in the State of Colorado. This data set was derived from BLM Colorado Field Office data captured at a scale of 1:24,000 and mapjoined into a resulting statewide map layer. Differences in data capture techniques resulted in the data editor dropping some boundaries from various Field Office Areas to avoid sliver problems. The data was snapped to the 2016 Geographic Coordinate Data Base (GCDB) for boundary consistency.",
+ "copyrightText": "BLM Colorado",
+ "supportsDynamicLayers": true,
+ "layers": [
+  {
+   "id": 0,
+   "name": "Field Office Boundaries",
+   "parentLayerId": -1,
+   "defaultVisibility": true,
+   "subLayerIds": null,
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Feature Layer",
+   "geometryType": "esriGeometryPolygon"
+  }
+ ],
+ "tables": [
+  {
+   "id": 1,
+   "name": "ilmCoExtPub.ILMEGISCODBO.ADMU_Address_Table",
+   "type": "Table"
+  }
+ ],
+ "spatialReference": {
+  "wkid": 26913,
+  "latestWkid": 26913
+ },
+ "singleFusedMapCache": false,
+ "initialExtent": {
+  "xmin": 151106.91131930024,
+  "ymin": 4186741.783377943,
+  "xmax": 845904.1342470795,
+  "ymax": 4602667.615229607,
+  "spatialReference": {
+   "wkid": 26913,
+   "latestWkid": 26913
+  }
+ },
+ "fullExtent": {
+  "xmin": 139988.59310000017,
+  "ymin": 4094282.8652999997,
+  "xmax": 763237.5382000003,
+  "ymax": 4546739.702400001,
+  "spatialReference": {
+   "wkid": 26913,
+   "latestWkid": 26913
+  }
+ },
+ "minScale": 0,
+ "maxScale": 0,
+ "units": "esriMeters",
+ "supportedImageFormatTypes": "PNG32,PNG24,PNG,JPG,DIB,TIFF,EMF,PS,PDF,GIF,SVG,SVGZ,BMP",
+ "documentInfo": {
+  "Title": "BLM Colorado Administrative Unit Boundaries",
+  "Author": "BLM Colorado",
+  "Comments": "This data set consists of digital data describing BLM Colorado\u2019s Administrative Unit Boundaries in the State of Colorado. This data set was derived from BLM Colorado Field Office data captured at a scale of 1:24,000 and mapjoined into a resulting statewide map layer. Differences in data capture techniques resulted in the data editor dropping some boundaries from various Field Office Areas to avoid sliver problems. The data was snapped to the 2016 Geographic Coordinate Data Base (GCDB) for boundary consistency.",
+  "Subject": "BLM Colorado Administrative Unit Boundaries - Field Offices",
+  "Category": "",
+  "AntialiasingMode": "Fast",
+  "TextAntialiasingMode": "Force",
+  "Keywords": "Management,Geospatial,boundaries,boundaries,Bureau of Land Management,Department of the Interior,BLM,ADMU,DOI,Colorado,Field Office"
+ },
+ "capabilities": "Map,Query,Data",
+ "supportedQueryFormats": "JSON, geoJSON",
+ "hasVersionedData": true,
+ "exportTilesAllowed": false,
+ "referenceScale": 0,
+ "supportsDatumTransformation": true,
+ "maxRecordCount": 1000,
+ "maxImageHeight": 4096,
+ "maxImageWidth": 4096,
+ "supportedExtensions": "FeatureServer, KmlServer, WMSServer",
+ "resampling": false
+}
