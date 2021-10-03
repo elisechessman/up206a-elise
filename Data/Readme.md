@@ -9,5 +9,8 @@
 * ### [Link in repo](https://github.com/elisechessman/up206a-elise/blob/main/Data/Brownfields_CO_json) 
 
 
-Also helpful is [the link](https://cdphe.colorado.gov/hm-gis-data) to other Environmental maps and GIS data that might be of use through the state Department of Public Health and the Environment
+* Also helpful is [the link](https://cdphe.colorado.gov/hm-gis-data) to other Environmental maps and GIS data that might be of use through the state Department of Public Health and the Environment
+
+
+# Census Information
 
