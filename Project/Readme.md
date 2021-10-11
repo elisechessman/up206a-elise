@@ -1,5 +1,5 @@
 
-#### Final Project Proposal
+# Final Project Proposal
 
 ## Introduction and Research Question
 
