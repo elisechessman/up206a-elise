@@ -45,7 +45,7 @@ One map will include the locations of former mine sites and the towns associated
 
 ## Week 4 Mood
 
-I think last week gave me a bit of clarity about indicators that would be helpful to use. I don't think race is a very helpful way to measure displacement, so I think switching to rent burden will be helpful as a next exploration. My biggest concern is how to analyze mining. Mine point location is very tricky to nail down. Should I use employment by industry? 
+I think last week gave me a bit of clarity about indicators that would be helpful to use. I don't think race is a very helpful way to measure displacement, so I think switching to rent burden will be helpful as a next exploration. My biggest concern is how to analyze mining. Mine point location is very tricky to nail down. Should I use employment by industry? Am I using the right counties to compare? Should I do more than two comparisons? 
 
 ## Insights 
 
@@ -57,7 +57,7 @@ Bigger picture, it would be a goal of mine to turn this project into a piece of 
 
 Getting mine location data is a challenge, so exploring mining as an industry seems like the best alternative. Where do I get this data? 
 
-What is my historical refere
+What is my historical reference? How far back should I be looking to understand change to economic factors for counties? 
 
 Am I choosing the right locations and right scale for comparison? I am struggling to identify how best to go about this comparitive analysis. I chose San Miguel and Denver Counties based on a very basic visual comparison. 
 
