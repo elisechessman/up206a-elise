@@ -20,7 +20,8 @@ Potential data source/mining visualization inspiration:
 https://www.arcgis.com/apps/MapSeries/index.html?appid=6804e1bab5e840e1a3a12a7236b7a485
 (Also includes an industry predominance map that may be useful to me) 
 
-
+I could also potentially get industry/employment info from the Bureau of Labor Statistics: 
+https://www.bls.gov/data/
 
 
 This map is great (Thanks Chris) but figuring out if I can actually use it/geocode it myself and if that makes sense for the time and scope of this project: 
@@ -42,6 +43,10 @@ However, the Colorado State Demographer’s office also hosts a variety of usefu
 One map will include the locations of former mine sites and the towns associated with them for the entire state, while a series of smaller maps that concentrate on specific towns and demonstrate demographics of importance. Additionally, some charts/tables will be useful in demonstrating the changes over time that I hope to examine, such as population growth, racial demographic changes, and economic diversity.
 
 
+## Week 4 Mood
+
+I think last week gave me a bit of clarity about indicators that would be helpful to use. I don't think race is a very helpful way to measure displacement, so I think switching to rent burden will be helpful as a next exploration. My biggest concern is how to analyze mining. Mine point location is very tricky to nail down. Should I use employment by industry? 
+
 ## Insights 
 
 For my capstone, I hope that this analysis will be helpful in supporting the toolkit. I think that demonstrating the way that the Mountain West is transforming can help support the desire for communities to perform their own an assessment that focuses on shared values and assets that can help inform goals and master planning longterm. These spatial analyses and the potential challenges that they expose should be an important supplemental to piece to this qualitative planning approach. 
@@ -51,6 +56,8 @@ Bigger picture, it would be a goal of mine to turn this project into a piece of 
 ## Concerns
 
 Getting mine location data is a challenge, so exploring mining as an industry seems like the best alternative. Where do I get this data? 
+
+What is my historical refere
 
 Am I choosing the right locations and right scale for comparison? I am struggling to identify how best to go about this comparitive analysis. I chose San Miguel and Denver Counties based on a very basic visual comparison. 
 
